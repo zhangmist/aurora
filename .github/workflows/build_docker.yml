@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/zhangmist/goneww
+  GHCR_REPO: ghcr.io/zhangmist/gonewee
 
 jobs:
   main:
